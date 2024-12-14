@@ -15,8 +15,8 @@ Antes de comenzar con la instalación, asegúrate de tener lo siguiente:
 ### Clonar el Repositorio:
 Copiar código
 ``` bash
-git clone https://github.com/tu-usuario/conversor-de-divisas.git
-cd conversor-de-divisas
+git clone https://github.com/nxhuel/conversor-monedas
+cd conversor-monedas
 ```
 Instalar Dependencias:
 ```
